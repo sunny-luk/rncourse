@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sunny/Desktop/my-first-app/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/sunny/Desktop/my-first-app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sunny/Desktop/rncourse/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/sunny/Desktop/rncourse/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

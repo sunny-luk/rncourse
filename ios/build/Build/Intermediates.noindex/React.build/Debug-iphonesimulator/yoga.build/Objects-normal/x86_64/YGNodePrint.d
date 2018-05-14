@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/sunny/Desktop/rncourse/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h
